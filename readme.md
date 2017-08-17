@@ -1,0 +1,1 @@
+This is for my CodingDojo GitHub repository assignment.
